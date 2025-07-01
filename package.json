@@ -1,15 +1,12 @@
 {
   "name": "my-app",
-  "homepage": "https://MelePdem.github.io/apple-clone-project/",
-  "private": true,
+   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "lint": "eslint .",     
     "preview": "vite preview"
   },
   "dependencies": {
