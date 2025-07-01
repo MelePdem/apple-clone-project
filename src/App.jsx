@@ -2,7 +2,7 @@ import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import MainS from "./MainS";
 import {Routes,Route} from "react-router-dom";
-import Iphone from "./pages/iphone/iphone";
+import Iphone from "./pages/iphone/Iphone";
 import Four04 from "./pages/Four04/Four04";
 import SharedLayout from "./pages/SharedLayout";
 import SingleAppleProduct from "./pages/SingleAppleProduct";
