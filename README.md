@@ -1,10 +1,10 @@
 ## 🍏 Apple Clone Project
 
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://kalkidan-mu.github.io/apple-clone-project/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://MelePdem.github.io/apple-clone-project/)
 
 
-This is a front-end clone of the Apple website, built using React and CSS. The project replicates the layout and styling of Apple’s homepage, with functional pages and components, dynamic routing, and API integration.
+This is a front-end clone of the Apple website, built using React and CSS. The project replicates the layout and styling of Apple’s homepage, with functional pages and components and dynamic routing.
 
 🔧 Tech Stack
 ⚛️ React (with Vite)
@@ -13,12 +13,11 @@ This is a front-end clone of the Apple website, built using React and CSS. The p
 
 🔁 React Router
 
-🌐 API Integration (for latest Apple products/videos)
 
 📸 Features
 🖥️ Responsive layout inspired by Apple.com
 
-📺 Fetches latest Apple promotional videos via API
+📺 Fetches latest Apple promotional videos via API (comming soon)
 
 📱 Dedicated iPhone product page
 
@@ -35,16 +34,9 @@ This is a front-end clone of the Apple website, built using React and CSS. The p
 
 🎨 Full page transitions and animations
 
-🚀 Installation (Local)
-bash
-Copy
-Edit
-git clone https://github.com/kalkidan-mu/apple-clone-project.git
-cd apple-clone-project
-npm install
-npm run dev
 
 
 
-author :kalkidan azene
+
+author :Melese Demessie
 
